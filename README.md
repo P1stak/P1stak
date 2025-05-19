@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Alexander, Junior C# Developer
+# 👋 Hi! I'm Alexander
 
 ## ⚙️ Навыки
 
