@@ -10,7 +10,11 @@
 - 🌐 Интересуюсь архитектурой микросервисов и Docker  
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/P1stak/your-repository?style=social)
+## 📈 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P1stak&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 ---
 
 ## 🛠 Навыки и стек
