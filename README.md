@@ -10,11 +10,6 @@
 - 🌐 Интересуюсь архитектурой микросервисов и Docker  
 
 ---
-## 📈 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P1stak&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
 
 ## 🛠 Навыки и стек
 | Язык/Framework        | Уровень    |
@@ -26,6 +21,12 @@
 | Git / GitHub          | ★★★★☆      |
 | Docker                | ★★☆☆☆      |
 
+---
+## 📈 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P1stak&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 ---
 
 ## 📫 Контакты
