@@ -3,7 +3,7 @@
 ## ⚙️ Навыки
 
 *   **Языки программирования:** C#
-*   **Технологии:** .NET, ASP.NET, Entity Framework, LINQ
+*   **Технологии:** .NET, ASP.NET, ADO.NET, Entity Framework, LINQ
 *   **Инструменты:** Visual Studio, Docker, Postman
 *   **Базы данных:** SQL Server, PostgreSQL, MS SQL
 
